@@ -1,0 +1,2 @@
+* Do not use screws that are too long. The thread extends 0.5 mm beneath the surface, so it's easy to damage it. 
+* The tolerances on the battery connector are very tight. This means that the connector might bump against the LCD, causing a stain to appear on the screen. Therefore, soldering the battery directly to the PCB is advised.
