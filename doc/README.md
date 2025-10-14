@@ -1,0 +1,1 @@
+The device will not power on without a battery. That is because the inital voltage for the enable logic will be supplied by the battery.
