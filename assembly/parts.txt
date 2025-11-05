@@ -2,15 +2,15 @@ Power:
   - Battery: li-po 603048 (Turtle Beach Stealth)
 
 Audio:
-  - Speaker
+  - Speaker (see datasheets)
 
 Buttons:
-  - Switch Analog Stick
+  - Switch Analog Stick (from the Switch 1, not 2)
   - 4 SNES buttons
 
 Rubber pads:
-  - DPAD: PS4 DPAD
-  - Buttons: PS4 ABXY
+  - DPAD: PS4 DPAD rubber pad
+  - Buttons: PS4 ABXY rubber pad
   - Shoulder-Buttons: PS4 ABXY (need to be fitted)
 
 PCB:
@@ -21,10 +21,13 @@ Screws:
   - case: 4 x M1.6 cone head, 8mm
   - button bearing: 2 x M1.6 cone head, 5mm
   - MB mounting: 2 x M1.6 cone head, 3mm
-  - LCD mouting: TBD
+  - LCD mouting: currently not advised. The LCD is sitting properly and fast without screws.
 
 3D printed components:
-- DPAD
-- 2x shoulder button
-- 2x start/select button
-- 1x button bearing 3D
+  - DPAD
+  - 2x shoulder button
+  - 2x start/select button
+  - 1x button bearing 3D
+  
+CNC machined parts:
+  - case (top and bottom shell)
