@@ -1,0 +1,51 @@
+Item #;Designator;Quantity;Manufacturer;Mfg Part #;Descritption / Value;Package / Footprint;Type;Your Instructions / Notes
+1;R1;1;generic 1%;;200k 1%;0805 (2012 metric);SMD;Please choose manufacturer freely
+2;R2, R3, R4, R16, R27, R32, R36;7;generic 1%;;10k 1%;0805 (2012 metric);SMD;Please choose manufacturer freely
+3;R9,R22;2;generic 1%;;27R 1%;0402 (1005 metric);SMD;Please choose manufacturer freely
+4;R33;1;generic 1%;;120k 1%;0805 (2012 metric);SMD;Please choose manufacturer freely
+5;R34;1;generic 1%;;27k 1%;0805 (2012 metric);SMD;Please choose manufacturer freely
+6;R10,R11,R13,R14,R15,R23,R25,R29,R30;9;generic 5%;;10k;0805 (2012 metric);SMD;Please choose manufacturer freely
+7;R31;1;generic 5%;;10k;0402 (1005 metric);SMD;Please choose manufacturer freely
+8;R5,R6,R28;3;generic 5%;;100k;0805 (2012 metric);SMD;Please choose manufacturer freely
+9;R7;1;generic 5%;;33R;0402 (1005 metric);SMD;Please choose manufacturer freely
+10;R8;1;generic 5%;;1k;0402 (1005 metric);SMD;Please choose manufacturer freely
+11;R12;1;generic 5%;;330;0805 (2012 metric);SMD;Please choose manufacturer freely
+12;R17;1;generic 5%;;100M;0805 (2012 metric);SMD;Please choose manufacturer freely
+13;R18;1;generic 5%;;1.65k;0805 (2012 metric);SMD;Please choose manufacturer freely
+14;R19;1;generic 5%;;20k;0805 (2012 metric);SMD;Please choose manufacturer freely
+15;R20,R26;2;generic 5%;;5.1k;0805 (2012 metric);SMD;Please choose manufacturer freely
+16;R21,R24;2;generic 5%;;30k;0805 (2012 metric);SMD;Please choose manufacturer freely
+17;C1;1;generic 10%;;4.7 uF;0805 (2012 metric);SMD;Please choose manufacturer freely
+18;C9, C14, C16, C17;4;generic 10%;;4.7 uF;0402 (1005 metric);SMD;Please choose manufacturer freely
+19;C2, C7, C11, C34;4;generic 10%;;10 uF;0805 (2012 metric);SMD;Please choose manufacturer freely
+20;C3,C25;2;generic 10%;;100 nF;0805 (2012 metric);SMD;Please choose manufacturer freely
+21;C5;1;generic 10%;;6.8 pF / 50 V;0805 (2012 metric);SMD;Please choose manufacturer freely
+22;C26, C33;2;generic 10%;;10 uF;1206 (3216 metric);SMD;Please choose manufacturer freely
+23;C12, C13;2;generic 10%;;15 pF;0402 (1005 metric);SMD;Please choose manufacturer freely
+24;C15,C18,C19,C20,C21,C22,C23,C27,C28,C29,C30,C31,C32;13;generic 10%;;100 nF;0402 (1005 metric);SMD;Please choose manufacturer freely
+25;C24;1;generic 10%;;1 uF;0805 (2012 metric);SMD;Please choose manufacturer freely
+26;D1, D3, D4;3;onsemi;MBR120VLSFT1G;;SOD-123F;SMD;Please choose manufacturer freely
+27;D2;1;generic;SCHOTTKY DIODE SS24 2A 40V SMA SR240 DO-214AC;;1206 (3216 metric);SMD;Please choose manufacturer freely
+28;L2;1;ABRACON;AOTA-B201610S3R3-101-T ;3.3uH;;SMD;Rpi inductance for internal voltage regulator
+29;L3;1;Coilcraft;XFL4020-222MEC ;2.2uH 35mOhm;;SMD;May be replaced with compatible part, Main voltage regulator inductance
+30;L4;1;Taiyo Yuden;NRS5030T3R3MMGJ;3.3 uH;;SMD;May be replaced with compatible part, Backlight boost inductance
+31;Q1;1;Diodes Incorporated;DMG2305UX;DMG2305UX;SOT-23;SMD;
+32;Q2;1;AOSMD;AO3401;AO3401;SOT-23-3;SMD;
+33;Q3,U6;2;AOSMD;AO3402;AO3402;SOT-23-3;SMD;
+34;Q4;1;onsemi;FDN340P;FDN340P;SOT-23;SMD;
+35;U2;1;SHOUDING;SDB628;;;SMD;Backlight booster switcher
+36;U3;1;ChipSource Tek;NS4168;;;SMD;audio amp/codec
+37;U5;1;TI;TLV62569PDDCR;;;SMD;Main voltage regulator switcher
+38;U8;1;UTD Semiconductor;TP4054;;;SMD;Lipo charger
+39;U9;1;Raspberry Pi Ltd.;RP2350B;;;SMD;
+40;U11;1;Winbond;W25Q128JVS;;;SMD;Flash memory
+41;U12;1;AP Memory;APS6404L-3SQR;;;SMD;PSRAM
+42;Y1;1;ABRACON;ABM8-272-T3;;;SMD;Crystal
+43;J1;1;Amphenol Aorora;F305-1A7H1-11040-E100;;;SMD;May be replaced with compatible part, LCD connector
+44;J2;1;Korean Hroparts Elec;TF-01A;;;SMD;May be replaced with compatible part, SD card holder
+45;J3;1;DNF;DNF;DNF;DNF;SMD;Do not populate
+46;J4;1;G-Switch;GT-USB-7010ASV;;;SMD;May be replaced with compatible part, USB port
+47;J5;1;SHOU HAN;PJ-242;;;SMD;May be replaced with compatible part, audio jack
+48;J7;1;JUSHUO;AFC07-S05ECC-00;;;SMD;May be replaced with compatible part, 0.5mm pitch, top contact
+49;SW9;1;E-Switch;TL3330AF260QG;;;SMD;May be replaced with compatible part, reset switch
+50;SW10, SW11;2;E-Switch;TL3342F260QG;;;SMD;May be replaced with compatible part, start button
