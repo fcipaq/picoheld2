@@ -1,2 +1,2 @@
-* Do not use screws that are too long. The thread extends 0.5 mm beneath the surface, so it's easy to damage it. 
+* Do not use screws that are too long. The thread extends 0.5 mm beneath the surface, so it's easy to damage it. Mind tolerances from the manufacturing process, if the screws don't fit easily, you might want to opt for a shorter screw (rather than damaging your case).
 * The tolerances on the battery connector are very tight. This means that the connector might bump against the LCD, causing a stain to appear on the screen. Therefore, soldering the battery directly to the PCB is advised.
