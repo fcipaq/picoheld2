@@ -12,9 +12,9 @@ Item #;Designator;Quantity;Manufacturer;Mfg Part #;Descritption / Value;Package 
 11;R12;1;generic 5%;0805W8J0331T5E;330;0805 (2012 metric);SMD;Please choose manufacturer freely
 12;R17;1;generic 5%;0805W8J0107T5E;100M;0805 (2012 metric);SMD;Please choose manufacturer freely
 13;R18;1;generic 5%;0805W8F1651T5E;1.65k;0805 (2012 metric);SMD;Please choose manufacturer freely
-14;R19;1;generic 5%;0805W8J0203T5E;20k;0805 (2012 metric);SMD;Please choose manufacturer freely
+14;R19,R24;1;generic 5%;0805W8J0203T5E;20k;0805 (2012 metric);SMD;Please choose manufacturer freely
 15;R20,R26;2;generic 5%;0805W8J0512T5E;5.1k;0805 (2012 metric);SMD;Please choose manufacturer freely
-16;R21,R24;2;generic 5%;RMCF0805JT30K0;30k;0805 (2012 metric);SMD;Please choose manufacturer freely
+16;R21;2;generic 5%;RMCF0805JT30K0;30k;0805 (2012 metric);SMD;Please choose manufacturer freely
 17;C1;1;generic 10%;CL21A475KAQNNNE;4.7 uF;0805 (2012 metric);SMD;Please choose manufacturer freely
 18;C9, C14, C16, C17;4;generic 10%;CL05A475KP5NRNC;4.7 uF;0402 (1005 metric);SMD;Please choose manufacturer freely
 19;C2, C7, C11, C34;4;generic 10%;GRM21BR61C106KE15L;10 uF;0805 (2012 metric);SMD;Please choose manufacturer freely
