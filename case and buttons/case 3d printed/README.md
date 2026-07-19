@@ -1,0 +1,1 @@
+Please note that tolerances are pretty tight, depending on the printing technique. You may need to use sandpaper to rework some areas, especially the holes for the buttons. I had it printed at JLCPCB, and there were quite a few issues with warping. To mitigate this issue, I placed the part in hot water (70° C, be careful not to burn yourself) and pressed it flat. YMMV
