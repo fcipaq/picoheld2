@@ -9,3 +9,4 @@ The BOM and CPL files are in xlsx format ready to be manufactured at JLCPCB. I a
 
 The JPG image is for reference only and might not accurately reflect the current state.
 
+The battery connector (J3) is pretty tall, so depending on the tolerances, it might bump against the LCD. You might want to consider omitting the connector and solder the battery directly to the PCB.
