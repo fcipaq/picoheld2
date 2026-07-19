@@ -23,7 +23,7 @@ If you want to buy everything by yourself, you can find info/links about the par
 
 [LCD](https://aliexpress.com/item/1005008256444774.html) (RP2350)
 
-[Speaker](https://aliexpress.com/item/1005004431389186.html
+[Speaker](https://aliexpress.com/item/1005004431389186.html)
 
 For all other parts, see parts.txt in the assembly folder.
 
